@@ -1,10 +1,10 @@
 
-##HR Dashboard in Power BI
+# HR Dashboard in Power BI
 
 This project leverages the power of Microsoft Power BI to create a comprehensive and interactive HR dashboard that provides valuable insights into various HR metrics. This dashboard is designed to help HR teams track and analyze key data points, enabling informed decision-making and promoting a data-driven culture.
 
 
-#Features
+# Features
 
 Headcount: Monitor the total number of employees.
 
